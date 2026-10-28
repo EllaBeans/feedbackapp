@@ -1,2 +1,2 @@
 # feedbackapp
-An agent to gather feedback themes, compete signals and priorization
+An agent to gather feedback themes, compete signals and priortization
